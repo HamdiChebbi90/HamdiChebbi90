@@ -54,6 +54,6 @@ I love playing video games and watching anime. 😄 Pronouns: He/Him
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="Hamdi's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamdichebbi90&show_icons=true&hide_border=true&count_private=true" alt="Hamdi's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/HamdiChebbi90&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
